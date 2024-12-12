@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tilka\\source\\repos\\ETurnuvam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{877E059E-E258-428F-8443-0E0A5C0D0130}|ETurnuvam\\ETurnuvam.csproj|c:\\users\\tilka\\source\\repos\\eturnuvam\\eturnuvam\\html\\anasayfam.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E059E-E258-428F-8443-0E0A5C0D0130}|ETurnuvam\\ETurnuvam.csproj|solutionrelative:eturnuvam\\html\\anasayfam.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E059E-E258-428F-8443-0E0A5C0D0130}|ETurnuvam\\ETurnuvam.csproj|c:\\users\\tilka\\source\\repos\\eturnuvam\\eturnuvam\\css\\anasayfa.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{877E059E-E258-428F-8443-0E0A5C0D0130}|ETurnuvam\\ETurnuvam.csproj|solutionrelative:eturnuvam\\css\\anasayfa.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaSayfa.css",
+              "DocumentMoniker": "C:\\Users\\tilka\\source\\repos\\ETurnuvam\\ETurnuvam\\Css\\AnaSayfa.css",
+              "RelativeDocumentMoniker": "ETurnuvam\\Css\\AnaSayfa.css",
+              "ToolTip": "C:\\Users\\tilka\\source\\repos\\ETurnuvam\\ETurnuvam\\Css\\AnaSayfa.css",
+              "RelativeToolTip": "ETurnuvam\\Css\\AnaSayfa.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-12T16:05:06.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnaSayfam.html",
+              "DocumentMoniker": "C:\\Users\\tilka\\source\\repos\\ETurnuvam\\ETurnuvam\\Html\\AnaSayfam.html",
+              "RelativeDocumentMoniker": "ETurnuvam\\Html\\AnaSayfam.html",
+              "ToolTip": "C:\\Users\\tilka\\source\\repos\\ETurnuvam\\ETurnuvam\\Html\\AnaSayfam.html",
+              "RelativeToolTip": "ETurnuvam\\Html\\AnaSayfam.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-12T15:18:02.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

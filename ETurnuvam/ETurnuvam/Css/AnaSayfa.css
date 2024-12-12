@@ -1,0 +1,72 @@
+﻿*, h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans", sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.MyNavBar {
+    background-color: #FF4500;
+    height: 90px;
+}
+
+a:not(.PageHeader) {
+    font-size: 14pt;
+    transition: 200ms color;
+}
+
+
+a:not(.PageHeader, .MyButton):hover {
+    color: #c7c7c7 !important;
+}
+
+.FirstImage {
+    width: 360px;
+    height: 210px;
+}
+
+/*.FirstRow {
+    border-top: 1px solid linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,69,0,1) 50%, rgba(255,255,255,1) 100%);
+}
+*/
+.MyLine {
+    width: 100%;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,69,0,1) 50%, rgba(255,255,255,1) 100%);
+    height: 1px;
+}
+
+.MyParag {
+    font-size: 15pt;
+}
+
+.MyGoToLink {
+    display: flex !important;
+    width: 100px !important;
+    background-color: #FF4500;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    height: 45px;
+    text-decoration: none;
+    position:relative;
+}
+
+.MyIcon{
+    position: absolute;
+    opacity: 0;
+    transition: 200ms all;
+}
+
+
+.MyGoToLink:hover .MyIcon {
+    opacity: 1;
+    transform: translateX(30px);
+}
+
+
+.MyContainer{
+    height: 1000px !important;
+}
